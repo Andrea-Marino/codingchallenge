@@ -1,0 +1,58 @@
+body{
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+div{
+background-color: rgba(5,4,2,0.5);
+width:850px;
+height: 110%;
+margin:auto;
+padding: 100px;
+}
+
+.logo{
+  width: 250px;
+}
+
+.quadrato0{
+  background-color:green;
+  width:750px;
+  height: 5px;
+  margin: 0px;
+  padding: 35px;
+}
+
+.quadrato1{
+  background-color: orange;
+  border-radius: 10px;
+  width:250px;
+  height: 5px;
+  margin: 0px;
+  padding: 15px;
+}
+
+.quadrato2{
+  background-color: green;
+  border-radius: 10px;
+  width:550px;
+  height: 5px;
+  margin: 0px;
+  padding: 15px;
+}
+
+.quadrato3{
+  background-color: red;
+  border-radius: 10px;
+  width:100px;
+  height: 5px;
+  margin: 0px;
+  padding: 15px;
+}
